@@ -1,2 +1,2 @@
 # Photoshop-Scripting
-Open source photoshop scripting
+Open-source photoshop scripting
